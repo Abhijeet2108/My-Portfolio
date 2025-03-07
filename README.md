@@ -33,7 +33,7 @@ This is a personal portfolio project showcasing my web development skills. The w
 ---
 
 ## Project Demo
-[Live Demo](YourProjectURL) - You can link to your live portfolio here.
+[Live Demo]([YourProjectURL](https://comfy-cheesecake-316f3f.netlify.app)) - You can link to your live portfolio here.
 
 ---
 
