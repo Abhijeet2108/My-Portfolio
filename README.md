@@ -17,13 +17,11 @@
 ###
 
 
-# Personal Portfolio
+ 
 
 ### Description
 This is a personal portfolio project showcasing my web development skills. The website includes modern design elements and interactive animations powered by **GSAP** and **Locomotive Scroll**. It is built using **HTML**, **CSS**, and **JavaScript** to create a smooth, interactive user experience.
-
-### Socialify Image URL (Optional)
-[Socialify Image](URL) (If you have an image link, replace `URL` with the actual link)
+ 
 
 ### Shields.io Badges
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
@@ -43,8 +41,7 @@ This is a personal portfolio project showcasing my web development skills. The w
 
 Include screenshots of your project below. If you have them, upload or link to them.
 
-![Screenshot 1](your-screenshot-link.jpg)
-![Screenshot 2](your-screenshot-link.jpg)
+![Screenshot 1](Screenshot 2025-03-07 at 5.02.54 PM)
 
 ---
 
