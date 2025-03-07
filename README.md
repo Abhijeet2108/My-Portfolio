@@ -41,7 +41,7 @@ This is a personal portfolio project showcasing my web development skills. The w
 
 Include screenshots of your project below. If you have them, upload or link to them.
 
-![Screenshot 1](Screenshot 2025-03-07 at 5.02.54 PM)
+![Demo Screenshot](demo.png)
 
 ---
 
